@@ -1,0 +1,1 @@
+Open this folder as a normal Unity 3D 5.5.0 project.
